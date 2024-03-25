@@ -1,0 +1,17 @@
+.your-cart {
+  float: right;
+  margin-right: 40px;
+  margin-bottom: 40px;
+  color: white;
+  background-color: pink;
+  border-color: none !important;
+}
+
+.category {
+  float: left;
+  margin-left: 40px;
+}
+
+.menu-c {
+  width: 200px;
+}
